@@ -20,7 +20,7 @@ Before you apply to add your device into our list of official devices, you shoul
 
 9. You should release an unofficial build and **MUST** attach a link in the maintainership form
 
-10. You **MUST** meet all requirements as mentioned [here](devicereq.md).
+10. You **MUST** meet all [device requirements](devicereq.md) and agree to follow the code of conduct as mentioned [here](conduct.md).
 
 If all is well, you may apply [here](https://github.com/RisingTechOSS-devices/official_devices/issues/new/choose)
 
