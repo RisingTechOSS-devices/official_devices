@@ -45,8 +45,7 @@
 - **Redmi K60 Pro (Socrates)** - [`@honokascape`](https://t.me/honokascape)
 - **Redmi Note 10 Pro/Pro Max (Sweet/Sweetin)** - [`@honokascape`](https://t.me/honokascape)
 - **Redmi Note 11 Pro 5G/ Poco X4 Pro 5G (Veux/Peux)** - [`@semialex16`](https://t.me/semialex16)
-- **Redmi Note 12 (Pro/Pro+/Discovery) 5G (Rubyx)** - [`@Superuser1958`](https://t.me/Superuser1958)
-- **Redmi Note 13 Pro 5G / POCO X6 (Garnet)** - [`@Superuser1958`](https://t.me/Superuser1958)
+- **Redmi Note 12 Pro Speed / POCO X5 Pro (Redwood)** - ['@Rdx55'](https://t.me/Rdx55)
 
 ## Samsung
 - **Galaxy A52 (A52q)** - [`@RisenID`](https://t.me/RisenID)
