@@ -13,6 +13,7 @@
 - **Pixel 9 series (tokay, caiman, komodo)** - [`@manid_reddy`](https://t.me/manid_reddy) and [`@nivlafx`](https://t.me/nivlafx)
 
 ## Motorola
+- **Motorola Edge 30 (Dubai)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
 - **Motorola Edge 30 Ultra / X30 Pro (Eqs)** - [`@davigamer987`](https://t.me/davigamer987)
 - **Motorola G32 (Devon)** - [`@jaypndt`](https://t.me/jaypndt)
 - **Motorola G42 (Hawao)** - [`@jaypndt`](https://t.me/jaypndt)
