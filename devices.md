@@ -56,3 +56,6 @@
 ## Tecno
 - **Tecno Pova 4 (LG7n)** - [`@shirayuki_428`](https://t.me/shirayuki_428)
 - **Tecno Pova 4 Pro (LG8n)** - [`@shirayuki_428`](https://t.me/shirayuki_428)
+
+## Xiaomi
+- **Xiaomi Mi9 (cepheus)** - [`@tribual`](https://t.me/tribual)
