@@ -23,6 +23,7 @@
 
 ## Nothing
 - **Nothing Phone (1) (Spacewar)** - [`@twinchin96`](https://t.me/twinchin96)
+- **Nothing Phone (2) (Pong)** - [`@samrth012`](https://t.me/samrth012)
 
 ## OnePlus
 - **OnePlus 6/6T (Enchilada/Fajita)** - [`@Nartuouzumakii`](https://t.me/Nartuouzumakii)
