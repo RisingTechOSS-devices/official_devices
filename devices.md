@@ -28,6 +28,7 @@
 ## OnePlus
 - **OnePlus 6/6T (Enchilada/Fajita)** - [`@Nartuouzumakii`](https://t.me/Nartuouzumakii)
 - **OnePlus 8 Series (Instantnoodle/p/Kebab/Lemonades)** - [`@manid_reddy`](https://t.me/manid_reddy)
+- **OnePlus 10 pro (wly)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
 
 ## Poco
 - **Poco F1 (Beryllium)** - [`@Legendleo90`](https://t.me/Legendleo90)
@@ -40,6 +41,7 @@
 ## Realme
 - **Realme 7/Narzo 20 Pro/Narzo 30 4G (Salaa)** - [`@EvilAnsh`](https://t.me/EvilAnsh)
 - **Realme 6/6i(Indian)/6s/Narzo (RMX2001L1)** - [`@EvilAnsh`](https://t.me/EvilAnsh)
+- **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
 
 ## Redmi
 - **Redmi 12 5G /Redmi 12R/POCO M6 Pro 5G (Sky)** - [`@alanpdk`](https://t.me/alanpdk)
