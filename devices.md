@@ -50,6 +50,7 @@
 - **Redmi Note 10 Pro/Pro Max (Sweet/Sweetin)** - [`@honokascape`](https://t.me/honokascape)
 - **Redmi Note 11 Pro 5G/ Poco X4 Pro 5G (Veux/Peux)** - [`@semialex16`](https://t.me/semialex16)
 - **Redmi Note 12 Pro Speed / POCO X5 Pro (Redwood)** - ['@Rdx55'](https://t.me/Rdx55)
+- **Redmi Note 13 Pro 5G / POCO X6 5G (Garnet)** - ['@kibria5'](https://t.me/kibria5)
 
 ## Samsung
 - **Galaxy A52 (A52q)** - [`@RisenID`](https://t.me/RisenID)
