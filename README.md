@@ -1,13 +1,21 @@
-# Official Devices
+# Apply for maintainership
 
-This is our repo where stuff related to official devices is stored.
+Are you interested in becoming part of our team of amazing maintainers? If so, feel free to apply in order to join us!
 
-You also need to use this to apply for official maintainership for your device.
+## To become a maintainer of Rising Os
+You must fulfill the following requirements:
+- [Maintainers Requirements](https://github.com/RisingTechOSS-devices/official_devices/blob/fifteen/docs/maintainerreq.md)
+- [Device Requirements](https://github.com/RisingTechOSS-devices/official_devices/blob/fifteen/docs/devicereq.md)
+- [Maintainers Code of Conduct](https://github.com/RisingTechOSS-devices/official_devices/blob/fifteen/docs/conduct.md)
 
-# Content
+## Important
+- Please familiarize yourself with the Code of Conduct before submitting an Application!
+- Visit our Device Requirements documentation page and verify if your builds qualify for an official release.
+  
+You must be aware that just fulfilling these requirements doesn't necessarily mean that you're going to be accepted. We will also consider some other points if necessary (like experience or how your behavior is towards other people)
 
-1. [List of official devices](devices.md)
-2. [Device stability requirements](https://github.com/RisingTechOSS-devices/official_devices/blob/fifteen/docs/devicereq.md)
-3. [Maintainer requirements](https://github.com/RisingTechOSS-devices/official_devices/blob/fifteen/docs/maintainerreq.md)
-4. [Maintainers Code of Conduct](https://github.com/RisingTechOSS-devices/official_devices/blob/fifteen/docs/conduct.md)
-5. [Official maintainership form](https://github.com/RisingTechOSS-devices/official_devices/issues/new/choose)
+
+## Please note that issues created in this repository will be considered as applications for the position of official maintainer.
+**Note:** If the issue created dosen't follow the maintainers_form template, it will be automatically rejected.
+
+If you agree with everything, then please [fill this form](https://github.com/RisingTechOSS-devices/official_devices/issues/new/choose)
